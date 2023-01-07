@@ -110,7 +110,7 @@ class SignIn extends Template
      *
      * @return array
      */
-    private function getDefaultComponentConfig(): array
+    private fujakjhascjhkhacscnction getDefaultComponentConfig(): array
     {
         return [
             'component' => self::ADOBE_IMS_JS_SIGNIN,
